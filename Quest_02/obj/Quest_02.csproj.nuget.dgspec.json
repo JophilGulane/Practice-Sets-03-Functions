@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\PracticeSetsSolution\\Quest_02\\Quest_02.csproj": {}
+    "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\Quest_02\\Quest_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\PracticeSetsSolution\\Quest_02\\Quest_02.csproj": {
+    "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\Quest_02\\Quest_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\PracticeSetsSolution\\Quest_02\\Quest_02.csproj",
+        "projectUniqueName": "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\Quest_02\\Quest_02.csproj",
         "projectName": "Quest_02",
-        "projectPath": "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\PracticeSetsSolution\\Quest_02\\Quest_02.csproj",
+        "projectPath": "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\Quest_02\\Quest_02.csproj",
         "packagesPath": "C:\\Users\\Ggula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\PracticeSetsSolution\\Quest_02\\obj\\",
+        "outputPath": "C:\\Users\\Ggula\\Desktop\\Practice-Sets-03-Functions\\Quest_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ggula\\AppData\\Roaming\\NuGet\\NuGet.Config",
